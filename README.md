@@ -36,6 +36,8 @@ Screenshots:
 • **Menu Management** – Add, update, and delete dishes/categories  
 • **Order Tracking** – View and update order statuses  
 
+---
+
 ## 💻 Technologies Used
 **Frontend:**
 • **React.js** – Building the user interface  
@@ -141,8 +143,8 @@ This command runs the app in development mode. Open http://localhost:3000 to vie
 
 ---
 
-📂 Project Structure
-Restaurant-Food-Ordering-WebApp/
+## 📂 Project Structure
+Restaurant-App/
 
 ├── backend/                  # Node.js/Express.js backend API
 
