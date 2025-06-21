@@ -24,6 +24,7 @@ Key aspects of this project include:
 
 ## ✨ Features
 **Customer-Facing:**
+
 • **Browse Menu** – View categories, dishes, descriptions, and prices  
 • **Add to Cart** – Easily add/remove items and adjust quantities  
 • **Shopping Cart Management** – Review, update, and remove items before checkout  
@@ -32,6 +33,7 @@ Key aspects of this project include:
 • **Order History** – View past orders  
 
 **Backend/Admin (if applicable):**
+
 • **Menu Management** – Add, update, and delete dishes/categories  
 • **Order Tracking** – View and update order statuses  
 
