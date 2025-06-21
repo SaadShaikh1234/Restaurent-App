@@ -41,6 +41,7 @@ Key aspects of this project include:
 
 ## 💻 Technologies Used
 **Frontend:**
+
 • **React.js** – Building the user interface  
 • **React Router** – For navigation  
 • **Axios / Fetch API** – For making API requests to the backend  
@@ -48,6 +49,7 @@ Key aspects of this project include:
 • **Bootstrap** – Responsive layout and component styling
 
 **Backend:**
+
 • **Node.js** – JavaScript runtime environment  
 • **Express.js** – Web application framework for the API  
 • **MongoDB** – NoSQL database for data storage  
@@ -59,6 +61,7 @@ Key aspects of this project include:
 To get a local copy of the project running on your machine, follow these steps.
 
 **Prerequisites**
+
 • **Node.js** – LTS version recommended  
 • **npm** *(or Yarn)* – Node Package Manager for installing dependencies  
 • **MongoDB** – Installed locally or access to a MongoDB Atlas cluster
